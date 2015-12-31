@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: TinyPress on GitHub
 layout: post
 tags: [TinyPress, GitHub]
